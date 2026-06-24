@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: backend_url
+  url: 'http://13.53.126.128:8080/api'
 };
 
 /*
